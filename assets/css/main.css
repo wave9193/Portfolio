@@ -623,6 +623,13 @@ input, select, textarea {
 				.row.gtr-200.gtr-uniform > * {
 					padding-top: 5em;
 				}
+		.credly-badge {
+					display: inline-block;
+					margin-right: 20px; /* Increased space between badges */
+					margin-bottom: 20px; /* Increased space between badges */
+					width: 180px; /* Adjusted width for slightly bigger badges */
+					height: 320px; /* Adjusted height for slightly bigger badges */
+				}
 
 		@media screen and (max-width: 1800px) {
 
